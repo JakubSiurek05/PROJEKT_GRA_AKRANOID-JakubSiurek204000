@@ -14,6 +14,6 @@
 
  *  Sposób działania *
     Po uruchomieniu gry pojawia się menu wyboru, w którym użytkownik może wybrać:
-    - Nowa gra (Rozpoczyna rozgrywkę)
+    - Nowa gra (Rozpoczyna rozgrywkę, ktroej stan mozna zapisać, wciskając klawisz F5)
     - Wczytaj grę (Wczytuje wcześniej zapisany stan gry, aktywuje sie po kliknieciu przycisku F9)
     - Wyjście z gry (Kończy program)
