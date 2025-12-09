@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\kubas\source\repos\GierkaArkanoidJakubSiurek\GierkaArkanoidJakubSiurek\Stone.h(51,12): error C1075: „(”: nie znaleziono zgodnego tokenu
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+  Stone.cpp
+C:\Users\kubas\source\repos\GierkaArkanoidJakubSiurek\GierkaArkanoidJakubSiurek\Stone.h(51,12): error C1075: „(”: nie znaleziono zgodnego tokenu
+  (kompilowanie pliku źródłowego „Stone.cpp”)
+  
